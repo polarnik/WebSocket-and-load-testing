@@ -48,7 +48,11 @@
 <details>
 </details>
 
-## 2. Инструменты отправки и чтения сообщений WebSocket
+
+## 2. Замер длительности сценария вручную
+
+
+## 3. Инструменты отправки и чтения сообщений WebSocket
 
 ### Apache.JMeter 5.4.1 + WebSocket plugin by Peter Doornbosch 1.2.8
 
@@ -103,4 +107,16 @@
 
 #### Чтение сообщения с указанием имени сокета
 
+</details>
+
+
+## 4. Автоматизация записи сценария с WebSocket
+
+<details>
+</details>
+
+  
+## 5. Итоги
+
+<details>
 </details>

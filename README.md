@@ -120,3 +120,8 @@
 
 <details>
 </details>
+
+## Поговорить
+
+- Web Application Firewall + WebSocket
+- WSS WebSocket Security

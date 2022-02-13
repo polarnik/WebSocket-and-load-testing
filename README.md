@@ -34,20 +34,34 @@
 
 ### Fiddler Classic + WebSocket plugin
 <details>
+  - https://github.com/Nezrahm/FiddlerWebSocket (2017)
 </details>
 
 ### Fiddler Classic + Custom Script
 <details>
+  - https://docs.telerik.com/fiddlercore/api/fiddler.websocket
+  - https://github.com/polarnik/Fiddler.4.OnWebSocketMessage
+  - https://github.com/engineforce/InspectWebSocket
 </details>
 
 ### Charles Proxy
 <details>
+  - https://www.charlesproxy.com/
 </details>
 
 ### Fiddler Everywhere
 <details>
+  - https://www.telerik.com/download/fiddler-everywhere
 </details>
 
+### Proxyman
+<details>
+  - https://proxyman.io/
+</details>
+
+### Сводная таблица
+<details>
+</details>
 
 ## 2. Замер длительности сценария вручную
 

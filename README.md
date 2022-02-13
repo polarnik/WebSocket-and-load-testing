@@ -34,29 +34,46 @@
 
 ### Fiddler Classic + WebSocket plugin
 <details>
+  
   - https://github.com/Nezrahm/FiddlerWebSocket (2017)
+  - Free
+  - Windows, .NET
+  
 </details>
 
 ### Fiddler Classic + Custom Script
 <details>
+  
   - https://docs.telerik.com/fiddlercore/api/fiddler.websocket
   - https://github.com/polarnik/Fiddler.4.OnWebSocketMessage
   - https://github.com/engineforce/InspectWebSocket
+  - Free
+  - Windows, .NET
+  
 </details>
 
 ### Charles Proxy
 <details>
+  
   - https://www.charlesproxy.com/
+  - $70 = $60 (one licence) + $10 (tax, 20% NDS)
+  
 </details>
 
 ### Fiddler Everywhere
 <details>
+  
   - https://www.telerik.com/download/fiddler-everywhere
+  - $12 per month = $10 per month (one licence) + $2 (tax, 20% NDS)
+  
 </details>
 
 ### Proxyman
 <details>
+  
   - https://proxyman.io/
+  - $69 = $59 (one standard licence) + ~$10 (tax, 20% NDS)
+  
 </details>
 
 ### Сводная таблица
